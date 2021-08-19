@@ -27,3 +27,27 @@ python 2.7 + tensorflow 1.13 + keras 2.2.4
 
 ## 在线交流
 QQ交流群：67729435，微信群请加机器人微信号spaces_ac_cn
+
+
+
+### 測試測試
+- [ ] * **今天**
+* 明天
+* *後天*
+> [這是留言區]
+
+---
+```python=
+import pandas as pd
+import numpy as np
+import cx_Oracle
+
+print('hello')
+```
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+ 
